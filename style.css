@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Cousine&family=Libre+Baskerville&family=Lobster+Two&family=Mukta&family=Yellowtail&display=swap');
+
+
+body{
+    background-color: rgb(56, 61, 70);
+    color: rgb(74, 219, 74);
+    font-size: 24px;
+}
+
+h1{
+    color: rgb(170, 114, 11);
+    /*font-size: em; scala em relação ao body*/
+    font-variant: small-caps;/* versalete ou caixa alta*/
+    text-decoration: underline;
+}
+
+h2{
+    color: rgb(196, 88, 147);
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.fonte-1{
+    font-family: 'Libre Baskerville', serif;
+}
+
+.fonte-2{
+    font-family: 'Mukta', sans-serif;
+}
+
+.fonte-3{
+    font-family: 'Lobster Two', cursive;
+}
+
+.fonte-4{
+    font-family: 'Cousine', monospace;
+}
+
+.fonte-5{
+    font-family: 'Yellowtail', cursive;
+}
